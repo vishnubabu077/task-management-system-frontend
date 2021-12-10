@@ -14,4 +14,4 @@ Application can be acesses by url http://localhost:3000/
 
 # See below screens shots
 
-![alt text](https://github.com/vishnubabu077/task-management-system-frontend/main/homepage.jpg?raw=true)
+![alt text](https://github.com/vishnubabu077/task-management-system-frontend/blob/main/homepage.jpg)
