@@ -34,5 +34,6 @@ Application can be acesses by url http://localhost:3000/
 
 - Only  View , Add  Functionalities are implemented due to the limited time 
 - A very basic page is created , sveral important functionalities like validations etc are pending
+- The data will get added only if Integers are given in Time Spent and strings in others (As shown in screenshot) Since no validations are not yet implemeted. This must be taken care of while adding data
 
 
