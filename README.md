@@ -15,15 +15,16 @@ Application can be acesses by url http://localhost:3000/
 # See below screens shots
 
 
-#Home Page
+# Home Page
+
 ![alt text](https://github.com/vishnubabu077/task-management-system-frontend/blob/main/homepage.jpg)
 
-#View Sub Task
-![alt text](https://github.com/vishnubabu077/task-management-system-frontend/blob/main/sub-task.jpg)
+# View Sub Task
+![alt text](https://github.com/vishnubabu077/task-management-system-frontend/blob/main/subtask.jpg)
 
-#Add Task
+# Add Task
 ![alt text](https://github.com/vishnubabu077/task-management-system-frontend/blob/main/add-task1.jpg)
 
-#Add Multiple Subtasks
+# Add Multiple Subtasks
 ![alt text](https://github.com/vishnubabu077/task-management-system-frontend/blob/main/add-task2.jpg)
 
