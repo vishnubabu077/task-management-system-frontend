@@ -102,7 +102,7 @@ class AddLog extends Component {
                             </Row>
                             <Row className="mb-3">
                                 <Form.Group as={Col} md="6" controlId="validationCustom03">
-                                    <Form.Label>Time Spent</Form.Label>
+                                    <Form.Label>Time Spent (hr)</Form.Label>
                                     <Form.Control type="text" name="timeSpent" placeholder="Time Spent" value={this.state.timeSpent} onChange={this.applicationNameChange} required />
                                     <Form.Control.Feedback type="invalid">
                                         Please provide a valid Application Name.

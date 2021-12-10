@@ -52,7 +52,7 @@ function DynamicInput(props) {
                                 </Form.Control.Feedback>
                             </Form.Group>
                             <Form.Group as={Col} md="6" controlId="validationCustom04">
-                                <Form.Label>Time Spent</Form.Label>
+                                <Form.Label>Time Spent (hr)</Form.Label>
                                 <Form.Control type="text" placeholder="Time Spent" name="timeSpent" value={x.timeSpent} onChange={e => handleInputChange(e, i)} required />
                                 <Form.Control.Feedback type="invalid" >
                                     Please provide a valid Error Message.
