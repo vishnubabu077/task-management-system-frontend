@@ -6,6 +6,8 @@
  # Setup 
  
  -  npm sould be installed in the machine 
+ -  clone the repository
+ -  -inside the folder task-management-system-frontend execute the following commands
  - run command : npm install
  - run command : npm start
  
