@@ -121,8 +121,7 @@ class LogList extends Component {
     }
 
     reload() {
-        this.setState({ Severity: '', Keyword: '', filterCleared: true })
-        this.getCount();
+      
         fetch(`http://localhost:8080/task/getAll`)
             .then(response => response.json())
             .then(data => this.setState({ logs: data }));
@@ -149,7 +148,7 @@ class LogList extends Component {
 
             .then(data => {
                 this.toggleAddLog();
-                this.handleFilterClear();
+              this.reload();
 
 
             }).catch((error) => {
